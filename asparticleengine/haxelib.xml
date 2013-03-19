@@ -1,0 +1,5 @@
+<project name="asparticleengine" url="https://mourlamstudios@mourlam-studios.svn.beanstalkapp.com/ashaxeextensions/asparticleengine" license="Public">
+    <user name="mourlamstudios"/>
+ 	<description>Haxe particle engine which imports Cocos2D particle plists. Code ported from Cocos2D HaXe port (which is currently unfinishd). Demonstration: http://www.youtube.com/watch?v=LNi7kMCUXyM</description>
+    <version name="1.0.1">Added sample-1 from YouTube video: http://www.youtube.com/watch?v=LNi7kMCUXyM</version>
+</project>

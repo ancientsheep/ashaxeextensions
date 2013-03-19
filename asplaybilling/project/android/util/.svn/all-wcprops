@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ashaxeextensions/!svn/ver/48/trunk/asplaybilling/project/android/util
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ashaxeextensions/!svn/ver/48/trunk/asplaybilling/project/android/util/Base64.java
+END
+Security.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ashaxeextensions/!svn/ver/48/trunk/asplaybilling/project/android/util/Security.java
+END
+SkuDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ashaxeextensions/!svn/ver/48/trunk/asplaybilling/project/android/util/SkuDetails.java
+END
+Base64DecoderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ashaxeextensions/!svn/ver/48/trunk/asplaybilling/project/android/util/Base64DecoderException.java
+END
+IabException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ashaxeextensions/!svn/ver/48/trunk/asplaybilling/project/android/util/IabException.java
+END
+IabResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ashaxeextensions/!svn/ver/48/trunk/asplaybilling/project/android/util/IabResult.java
+END
+Purchase.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ashaxeextensions/!svn/ver/48/trunk/asplaybilling/project/android/util/Purchase.java
+END
+IabHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ashaxeextensions/!svn/ver/48/trunk/asplaybilling/project/android/util/IabHelper.java
+END
+Inventory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ashaxeextensions/!svn/ver/48/trunk/asplaybilling/project/android/util/Inventory.java
+END

@@ -1,0 +1,10 @@
+asparticleengine
+cpp
+desktop
+haxe_209
+mac
+nme
+nme_install_tool
+sys
+true
+/usr/lib/haxe/lib/hxcpp/2,10/

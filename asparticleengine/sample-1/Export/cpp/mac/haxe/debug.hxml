@@ -1,0 +1,12 @@
+-main ApplicationMain 
+-D nme_install_tool
+-cp Source
+-lib nme
+-lib asparticleengine
+-D desktop
+-D mac
+-cp Export/cpp/mac/haxe
+-cpp Export/cpp/mac/obj
+-cp Export/cpp/haxe
+--remap flash:nme
+-debug

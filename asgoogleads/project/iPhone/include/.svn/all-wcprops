@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include
+END
+GADAdSize.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/GADAdSize.h
+END
+GADBannerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/GADBannerView.h
+END
+GADRequestError.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/GADRequestError.h
+END
+GADAdNetworkExtras.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/GADAdNetworkExtras.h
+END
+GADInterstitialDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/GADInterstitialDelegate.h
+END
+GADRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/GADRequest.h
+END
+GADAdMobExtras.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/GADAdMobExtras.h
+END
+GADBannerViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/GADBannerViewDelegate.h
+END
+GADInterstitial.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/GADInterstitial.h
+END

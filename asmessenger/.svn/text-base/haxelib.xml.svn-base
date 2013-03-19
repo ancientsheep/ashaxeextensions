@@ -1,0 +1,5 @@
+<project name="asmessenger" url="http://mourlam-studios.svn.beanstalkapp.com/asiaphaxe/" license="Public">
+    <user name="mourlamstudios"/>
+ 	<description>Email and text messaging for iOS</description>
+    <version name="1.0">Initial release</version>
+</project>

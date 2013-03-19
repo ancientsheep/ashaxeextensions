@@ -1,0 +1,5 @@
+<project name="asplaybilling" url="http://code.google.com/p/haxe-app-rater/" license="Public">
+    <user name="mourlamstudios"/>
+ 	<description>In-app purchases for Google Play</description>
+    <version name="1.0">Initial release</version>
+</project>

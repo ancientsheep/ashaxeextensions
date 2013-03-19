@@ -1,0 +1,5 @@
+<project name="aspush" url="http://www.mourlamstudios.com" license="Whatever">
+    <user name="mourlamstudios"/>
+ <description>Registers device for remote notifications. Returns device token which can be pushed to your server and stored for Apple PNS</description>
+    <version name="1.0">Initial Release</version>
+</project>

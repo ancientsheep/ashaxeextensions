@@ -1,0 +1,5 @@
+<project name="asurlconnection" url="http://www.mourlamstudios.com" license="Whatever">
+    <user name="mourlamstudios"/>
+ <description>Make simple connection to website. Returns response data. Fires success and fail events.</description>
+    <version name="1.0">Initial Release</version>
+</project>

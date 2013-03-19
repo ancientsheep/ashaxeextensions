@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/Mediation
+END
+GADCustomEventBannerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/Mediation/GADCustomEventBannerDelegate.h
+END
+GADCustomEventBanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/Mediation/GADCustomEventBanner.h
+END
+GADCustomEventExtras.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/Mediation/GADCustomEventExtras.h
+END
+GADCustomEventInterstitialDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/Mediation/GADCustomEventInterstitialDelegate.h
+END
+GADCustomEventRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/Mediation/GADCustomEventRequest.h
+END
+GADCustomEventInterstitial.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/project/iPhone/include/Mediation/GADCustomEventInterstitial.h
+END

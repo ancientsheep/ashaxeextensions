@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+ 
+	<ndll name="asgoogleads" />
+	<java path="project/android" />
+
+	<!-- Template libs -->
+  	<!--<template path="/usr/lib/haxe/lib/asgoogleads/1,0/template/iphone/gads" rename="gads" if="ios" />-->
+  	<template path="template/iphone/gads" rename="gads" if="ios" />
+
+  	<dependency name="AudioToolbox.framework" if="ios" />
+  	<dependency name="MessageUI.framework" if="ios" />
+  	<dependency name="SystemConfiguration.framework" if="ios" />
+  	<dependency name="CoreGraphics.framework" if="ios" />
+</project>

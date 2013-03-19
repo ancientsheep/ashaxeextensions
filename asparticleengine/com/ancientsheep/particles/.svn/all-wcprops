@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ashaxeextensions/!svn/ver/39/trunk/asparticleengine/com/ancientsheep/particles
+END
+NSDictionary.hx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ashaxeextensions/!svn/ver/4/trunk/asparticleengine/com/ancientsheep/particles/NSDictionary.hx
+END
+ASParticle.hx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ashaxeextensions/!svn/ver/5/trunk/asparticleengine/com/ancientsheep/particles/ASParticle.hx
+END
+ASMacros.hx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ashaxeextensions/!svn/ver/5/trunk/asparticleengine/com/ancientsheep/particles/ASMacros.hx
+END
+ASTypes.hx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ashaxeextensions/!svn/ver/4/trunk/asparticleengine/com/ancientsheep/particles/ASTypes.hx
+END
+ASConfig.hx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ashaxeextensions/!svn/ver/4/trunk/asparticleengine/com/ancientsheep/particles/ASConfig.hx
+END
+ASParticleSystem.hx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ashaxeextensions/!svn/ver/48/trunk/asparticleengine/com/ancientsheep/particles/ASParticleSystem.hx
+END
+ASPointExtensions.hx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ashaxeextensions/!svn/ver/5/trunk/asparticleengine/com/ancientsheep/particles/ASPointExtensions.hx
+END
+ASSize.hx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ashaxeextensions/!svn/ver/4/trunk/asparticleengine/com/ancientsheep/particles/ASSize.hx
+END
+CGAffineTransform.hx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ashaxeextensions/!svn/ver/4/trunk/asparticleengine/com/ancientsheep/particles/CGAffineTransform.hx
+END

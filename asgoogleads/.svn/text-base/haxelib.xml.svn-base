@@ -1,0 +1,5 @@
+<project name="asgoogleads" url="http://mourlam-studios.svn.beanstalkapp.com/asiaphaxe/" license="Public">
+    <user name="mourlamstudios"/>
+ 	<description>In app purchases for iOS</description>
+    <version name="1.0">Initial release</version>
+</project>

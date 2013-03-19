@@ -1,0 +1,5 @@
+<project name="asrate" url="http://code.google.com/p/haxe-app-rater/" license="Public">
+    <user name="mourlamstudios"/>
+ 	<description>App rater displays a dialog asking users to rate your app after (x) amount of uses. Very handy for getting users to rate your app</description>
+    <version name="1.0">Initial release</version>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+ 
+	<ndll name="asplaybilling" />
+	<classpath name="."></classpath>
+	<java path="project/android" />
+
+	<!-- include our .aidl file -->
+	<!--<template path="template/android/IMarketBillingService.aidl" rename="classes/com/android/vending/IMarketBillingService.aidl" if="android"/>-->
+
+	<!--<template path="template" />-->
+
+</project>

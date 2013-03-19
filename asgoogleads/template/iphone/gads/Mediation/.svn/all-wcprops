@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/template/iphone/gads/Mediation
+END
+GADCustomEventBannerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/template/iphone/gads/Mediation/GADCustomEventBannerDelegate.h
+END
+GADCustomEventBanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/template/iphone/gads/Mediation/GADCustomEventBanner.h
+END
+GADCustomEventExtras.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/template/iphone/gads/Mediation/GADCustomEventExtras.h
+END
+GADCustomEventInterstitialDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/template/iphone/gads/Mediation/GADCustomEventInterstitialDelegate.h
+END
+GADCustomEventRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/template/iphone/gads/Mediation/GADCustomEventRequest.h
+END
+GADCustomEventInterstitial.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ashaxeextensions/!svn/ver/2/trunk/asgoogleads/template/iphone/gads/Mediation/GADCustomEventInterstitial.h
+END

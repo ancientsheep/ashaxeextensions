@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+ 
+	<ndll name="hxgk" />
+	<java path="project/android" />
+
+	<dependency name="GameKit.framework" if="ios" />
+
+</project>

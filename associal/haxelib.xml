@@ -1,0 +1,5 @@
+<project name="associal" url="http://www.mourlamstudios.com" license="Whatever">
+    <user name="mourlamstudios"/>
+ <description>Share facebook/twitter via iOS Social</description>
+    <version name="1.0">Initial Release</version>
+</project>
